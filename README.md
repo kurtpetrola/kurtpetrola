@@ -30,8 +30,8 @@ Aspiring game developer and currently studying Bachelor of Science in Informatio
 [![website](./imgs/terminal-light.svg)](https://www.dev.to/katowu#gh-light-mode-only)
 [![website](./imgs/terminal-dark.svg)](https://www.dev.to/katowu#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./imgs/linkedin-light.svg)](https://www.linkedin.com/in/kurtguenpetrola/#gh-light-mode-only)
-[![website](./imgs/linkedin-dark.svg)](https://www.linkedin.com/in/kurtguenpetrola/#gh-dark-mode-only)
+[![website](./imgs/linkedin-light.svg)](https://www.linkedin.com/in/kurt-guen-petrola-0b5469251/#gh-light-mode-only)
+[![website](./imgs/linkedin-dark.svg)](https://www.linkedin.com/in/kurt-guen-petrola-0b5469251/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./imgs/instagram-light.svg)](https://www.instagram.com/xkurtzzzz/#gh-light-mode-only)
 [![website](./imgs/instagram-dark.svg)](https://www.instagram.com/xkurtzzzz/#gh-dark-mode-only)
