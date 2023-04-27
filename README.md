@@ -24,15 +24,16 @@ Aspiring game developer and currently studying Bachelor of Science in Informatio
 
 <h2>🌴 Connect with me:</h2>
 
-[![website](./imgs/facebook-light.svg)](https://www.facebook.com/kurtpetrola/#gh-light-mode-only)
-[![website](./imgs/facebook-dark.svg)](https://www.facebook.com/kurtpetrola/#gh-dark-mode-only)
+[![website](./imgs/globe-light.svg)](https://www.facebook.com/kurtpetrola/#gh-light-mode-only)
+[![website](./imgs/globe-dark.svg)](https://www.facebook.com/kurtpetrola/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./imgs/globe-light.svg)](https://www.dev.to/katowu#gh-light-mode-only)
-[![website](./imgs/globe-dark.svg)](https://www.dev.to/katowu#gh-dark-mode-only)
+[![website](./imgs/terminal-light.svg)](https://www.dev.to/katowu#gh-light-mode-only)
+[![website](./imgs/terminal-dark.svg)](https://www.dev.to/katowu#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./imgs/linkedin-light.svg)](https://www.linkedin.com/in/kurtguenpetrola/#gh-light-mode-only)
 [![website](./imgs/linkedin-dark.svg)](https://www.linkedin.com/in/kurtguenpetrola/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./imgs/instagram-light.svg)](https://www.instagram.com/xkurtzzzz/#gh-light-mode-only)
 [![website](./imgs/instagram-dark.svg)](https://www.instagram.com/xkurtzzzz/#gh-dark-mode-only)
+
 
