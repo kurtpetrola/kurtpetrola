@@ -25,8 +25,8 @@ Aspiring game developer and currently studying Bachelor of Science in Informatio
 
 <h2>🌴 Connect with me:</h2>
 
-[![website](./imgs/globe-light.svg)](https://www.facebook.com/kurtpetrola/#gh-light-mode-only)
-[![website](./imgs/globe-dark.svg)](https://www.facebook.com/kurtpetrola/#gh-dark-mode-only)
+[![website](./imgs/globe-light.svg)](https://www.facebook.com/profile.php?id=100008866333712&mibextid=ZbWKwL/#gh-light-mode-only)
+[![website](./imgs/globe-dark.svg)](https://www.facebook.com/profile.php?id=100008866333712&mibextid=ZbWKwL/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./imgs/terminal-light.svg)](https://www.dev.to/katowu#gh-light-mode-only)
 [![website](./imgs/terminal-dark.svg)](https://www.dev.to/katowu#gh-dark-mode-only)
