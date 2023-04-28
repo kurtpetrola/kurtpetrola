@@ -4,6 +4,9 @@
  
 Aspiring game developer and currently studying Bachelor of Science in Information Technology.
 
+*   ✉️  You can contact me at [kurtguenpetrola@outlook.com](mailto:kurtguenpetrola@outlook.com)
+*   🧠  I'm learning Unity Game Engine
+
 <h2>🧰 Languages and Tools</h2>
 
 <img align="left" alt="C++" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
