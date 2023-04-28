@@ -6,7 +6,7 @@ Aspiring game developer and currently studying Bachelor of Science in Informatio
 
 *   📫  You can contact me at [kurtguenpetrola@outlook.com](mailto:kurtguenpetrola@outlook.com)
 *   🌱  I'm currently learning Unity Game Engine
-*   🎯  Hobbies : I like watching anime and reading manga
+*   🎯  Hobbies: Learning, reading manga and watching anime.
  
 <h2>🧰 Languages and Tools</h2>
 
