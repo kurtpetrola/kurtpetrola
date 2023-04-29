@@ -21,7 +21,7 @@ Aspiring game developer and currently studying Bachelor of Science in Informatio
 <img align="left" alt="Flutter" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Unity" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 <img align="left" alt="VSCode" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="VisualStudio" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img align="left" alt="VisualStudio" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
 <img align="left" alt="React" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="AndroidStudio" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <br />
@@ -40,7 +40,7 @@ Aspiring game developer and currently studying Bachelor of Science in Informatio
 &nbsp;&nbsp;
 [![website](./imgs/instagram-light.svg)](https://www.instagram.com/xkurtzzzz/#gh-light-mode-only)
 [![website](./imgs/instagram-dark.svg)](https://www.instagram.com/xkurtzzzz/#gh-dark-mode-only)
-    ![](https://komarev.com/ghpvc/?username=kurtpetrola)
 
 ------------------------------
+![](https://komarev.com/ghpvc/?username=kurtpetrola)
 <img alt="doggo" width="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/74731f76965389.5c7945b0cfcc3.gif">
