@@ -40,6 +40,7 @@ Aspiring game developer and currently studying Bachelor of Science in Informatio
 &nbsp;&nbsp;
 [![website](./imgs/instagram-light.svg)](https://www.instagram.com/xkurtzzzz/#gh-light-mode-only)
 [![website](./imgs/instagram-dark.svg)](https://www.instagram.com/xkurtzzzz/#gh-dark-mode-only)
+![](https://komarev.com/ghpvc/?username=kurtpetrola)
 
 ------------------------------
 <img alt="doggo" width="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/74731f76965389.5c7945b0cfcc3.gif">
