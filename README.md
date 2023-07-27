@@ -42,4 +42,6 @@ Aspiring game developer and currently studying Bachelor of Science in Informatio
 [![website](./imgs/instagram-dark.svg)](https://www.instagram.com/krt.zzz_/#gh-dark-mode-only)
 
 ------------------------------
-<img alt="doggo" width="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/74731f76965389.5c7945b0cfcc3.gif">
+<a href="https://discord.com/users/866124582673842186"><img align="left" src="https://lanyard.cnrad.dev/api/866124582673842186?borderRadius=8px&hideDiscrim=true"/></a>
+
+<!-- <img alt="doggo" width="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/74731f76965389.5c7945b0cfcc3.gif"> -->
