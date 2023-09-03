@@ -2,7 +2,7 @@
 
 **`Information Technology Student(SysDev)`**
  
-Aspiring Backend Developer and currently studying Bachelor of Science in Information Technology.
+Aspiring Full-Stack Developer and currently studying Bachelor of Science in Information Technology.
 
 *   📫  You can contact me at [kurtguenpetrola@outlook.com](mailto:kurtguenpetrola@outlook.com)
 *   🌱  I'm currently learning Unity Game Engine
@@ -20,9 +20,9 @@ Aspiring Backend Developer and currently studying Bachelor of Science in Informa
 <img align="left" alt="Dart" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 <img align="left" alt="Flutter" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Unity" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-<img align="left" alt="VSCode" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="VisualStudio" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+<img align="left" alt="Svelte" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
 <img align="left" alt="React" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="VSCode" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="AndroidStudio" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <br />
 <br />
