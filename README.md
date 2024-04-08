@@ -3,7 +3,7 @@
 
 **`Information Technology Student(SysDev)`**
  
-Aspiring Full-Stack Developer and is currently studying Bachelor of Science in Information Technology.
+I am an aspiring Full-Stack Developer and is currently studying Bachelor of Science in Information Technology.
 
 *   📫  You can contact me at [kurtguenpetrola@outlook.com](mailto:kurtguenpetrola@outlook.com)
 *   🌱  I'm currently learning Unity Game Engine
