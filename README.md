@@ -1,8 +1,9 @@
-# 🌌 Kurt Guen Raposas Petrola
+<!-- # 🌌 Kurt Guen Raposas Petrola -->
+<p align = "center" ><img align="center" src="https://github.com/kurtpetrola/kurtpetrola/blob/master/imgs/kurt-readme-header.png" /></p>
 
 **`Information Technology Student(SysDev)`**
  
-Aspiring Full-Stack Developer and currently studying Bachelor of Science in Information Technology.
+Aspiring Full-Stack Developer and is currently studying Bachelor of Science in Information Technology.
 
 *   📫  You can contact me at [kurtguenpetrola@outlook.com](mailto:kurtguenpetrola@outlook.com)
 *   🌱  I'm currently learning Unity Game Engine
@@ -20,6 +21,7 @@ Aspiring Full-Stack Developer and currently studying Bachelor of Science in Info
 <img align="left" alt="VSCode" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="AndroidStudio" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="Unity" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+
 <br />
 <br />
 
