@@ -35,7 +35,7 @@ I am an aspiring Full-Stack Developer and is currently studying Bachelor of Scie
    </picture>
  </a>
  &nbsp;
- <a href="https://www.dev.to/katowu">
+ <a href="https://dev.to/kurtpetrola">
    <picture>
      <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/dev-light.svg">-->
      <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/dev-dark.svg">-->
@@ -70,7 +70,7 @@ I am an aspiring Full-Stack Developer and is currently studying Bachelor of Scie
 ---
 
 <p align="center">
-    <a href="https://discord.com/users/1038482905753714779"><img src="https://lanyard.cnrad.dev/api/1038482905753714779?borderRadius=8px&hideDiscrim=true"/></a>
+    <a href="https://discord.com/users/866124582673842186"><img src="ttps://lanyard.cnrad.dev/api/866124582673842186??borderRadius=8px&hideDiscrim=true"/></a>
   &nbsp; &nbsp;
     <img alt="cute-doggo-couple" width="auto" height="210" src="https://media.tenor.com/h67tbKxNTyAAAAAi/corgi-love.gif">
 </p>
