@@ -3,7 +3,7 @@
 
 **`Information Technology Student(SysDev)`**
 
-<img alt="cute-doggo-couple" align="right" width="auto" height="120" src="https://media.tenor.com/h67tbKxNTyAAAAAi/corgi-love.gif
+<img alt="cute-doggo-couple" align="right" width="auto" height="120" src="https://media.tenor.com/h67tbKxNTyAAAAAi/corgi-love.gif">
 
 I am an aspiring Full-Stack Developer and is currently studying Bachelor of Science in Information Technology.
 
