@@ -16,7 +16,7 @@ I am an aspiring Full-Stack Developer and is currently studying Bachelor of Scie
 <p align="center">
   <!--<a href="https://skillicons.dev"></a>-->
     <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,firebase,svelte,react,ts,js" /> <!--</br>-->
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,cs,unity,tailwind,mysql,git,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,cs,unity,git,tailwind,mysql,figma" />
 </p>
 
 
@@ -25,44 +25,76 @@ I am an aspiring Full-Stack Developer and is currently studying Bachelor of Scie
 <p align="center">
  <a href="https://www.facebook.com/profile.php?id=100008866333712&mibextid=ZbWKwL/">
    <picture>
-     <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-light.svg">-->
-     <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-dark.svg">-->
+     <img alt="Facebook logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook.svg" height="36">
+   </picture>
+ </a>
+ &nbsp;
+  <a href="https://dev.to/kurtpetrola">
+   <picture>
+      <img src="https://skillicons.dev/icons?i=devto" height="37"/>
+   </picture>
+ </a>
+  &nbsp;
+ <a href="https://gitlab.com/kurtpetrola">
+   <picture>
+      <img src="https://skillicons.dev/icons?i=gitlab" height="36"/>
+   </picture>
+ </a>
+  &nbsp;
+ <a href="https://www.linkedin.com/in/kurtguenpetrola">
+   <picture>
+      <img src="https://skillicons.dev/icons?i=linkedin" height="36"/>
+   </picture>
+ </a>
+  &nbsp;
+ <a href="https://www.instagram.com/krt.zzz_">
+   <picture>
+      <img src="https://skillicons.dev/icons?i=instagram" height="36"/>
+   </picture>
+ </a>
+</p>
+
+<!--<p align="center">
+ <a href="https://www.facebook.com/profile.php?id=100008866333712&mibextid=ZbWKwL/">
+   <picture>
+     <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-light.svg">
+     <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-dark.svg">
      <img alt="Facebook logo" src="https://github.com/kurtpetrola/kurtpetrola/blob/master/imgs/facebook-dark.svg" height="35">
    </picture>
  </a>
  &nbsp;
  <a href="https://dev.to/kurtpetrola">
    <picture>
-     <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/dev-light.svg">-->
-     <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/dev-dark.svg">-->
+     <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/dev-light.svg">
+     <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/dev-dark.svg">
      <img alt="Dev logo" src="https://github.com/kurtpetrola/kurtpetrola/blob/master/imgs/dev-dark.svg" height="35">
    </picture>
  </a>
  &nbsp;
  <a href="https://gitlab.com/kurtpetrola">
    <picture>
-     <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/gitlab-light.svg">-->
-     <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/gitlab-dark.svg">-->
+     <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/gitlab-light.svg">
+     <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/gitlab-dark.svg">
      <img alt="Dev logo" src="https://github.com/kurtpetrola/kurtpetrola/blob/master/imgs/gitlab-dark.svg" height="35">
    </picture>
  </a>
  &nbsp;
  <a href="https://www.linkedin.com/in/kurtguenpetrola">
    <picture>
-     <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/linkedin-light.svg">-->
-     <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/linkedin-dark.svg">-->
+     <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/linkedin-light.svg">
+     <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/linkedin-dark.svg">
      <img alt="Linkedin logo" src="https://github.com/kurtpetrola/kurtpetrola/blob/master/imgs/linkedin-dark.svg" height="35">
    </picture>
  </a>
  &nbsp;
  <a href="https://www.instagram.com/krt.zzz_">
    <picture>
-     <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/instagram-light.svg">-->
-     <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/instagram-dark.svg">-->
+     <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/instagram-light.svg">
+     <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/instagram-dark.svg">
      <img alt="Instagram logo" src="https://github.com/kurtpetrola/kurtpetrola/blob/master/imgs/instagram-dark.svg" height="35">
    </picture>
  </a>
-</p>
+</p>-->
 
 ---
 
