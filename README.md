@@ -15,9 +15,10 @@ I am an aspiring Full-Stack Developer and is currently studying Bachelor of Scie
 
 <p align="center">
   <!--<a href="https://skillicons.dev"></a>-->
-    <img src="https://skillicons.dev/icons?i=java,c#,dart,flutter,kotlin,firebase,git,svelte,react" /> <!--</br>-->
+    <img src="https://skillicons.dev/icons?i=java,cs,dart,flutter,kotlin,firebase,git,svelte,react" /> <!--</br>-->
     <img src="https://skillicons.dev/icons?i=ts,tailwind,mysql,vscode,visualstudio,androidstudio,unity,figma,ps" />
 </p>
+
 
 <h2>🌐 Connect with me:</h2>
 
