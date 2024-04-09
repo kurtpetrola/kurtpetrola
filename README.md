@@ -2,13 +2,13 @@
 <p align = "center" ><img align="center" src="https://github.com/kurtpetrola/kurtpetrola/blob/master/imgs/kurt-readme-header.png" /></p>
 
 **`Information Technology Student(SysDev)`**
- 
+
 I am an aspiring Full-Stack Developer and is currently studying Bachelor of Science in Information Technology.
 
-*   📫  You can contact me at [kurtguenpetrola@outlook.com](mailto:kurtguenpetrola@outlook.com)
-*   🌱  I'm currently learning Unity Game Engine
-*   🎯  Hobbies: Learning, reading manga and watching anime.
- 
+- 📫 You can contact me at [kurtguenpetrola@outlook.com](mailto:kurtguenpetrola@outlook.com)
+- 🌱 I'm currently learning Unity Game Engine
+- 🎯 Hobbies: Learning, reading manga and watching anime.
+
 <h2>🧰 Languages and Tools</h2>
 
 <img align="left" alt="Dart" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
@@ -27,19 +27,51 @@ I am an aspiring Full-Stack Developer and is currently studying Bachelor of Scie
 
 <h2>🌴 Connect with me:</h2>
 
-[![website](./imgs/globe-light.svg)](https://www.facebook.com/profile.php?id=100008866333712&mibextid=ZbWKwL/#gh-light-mode-only)
-[![website](./imgs/globe-dark.svg)](https://www.facebook.com/profile.php?id=100008866333712&mibextid=ZbWKwL/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./imgs/terminal-light.svg)](https://www.dev.to/katowu#gh-light-mode-only)
-[![website](./imgs/terminal-dark.svg)](https://www.dev.to/katowu#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./imgs/linkedin-light.svg)](https://www.linkedin.com/in/kurt-guen-petrola-0b5469251/#gh-light-mode-only)
-[![website](./imgs/linkedin-dark.svg)](https://www.linkedin.com/in/kurt-guen-petrola-0b5469251/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./imgs/instagram-light.svg)](https://www.instagram.com/krt.zzz_/#gh-light-mode-only)
-[![website](./imgs/instagram-dark.svg)](https://www.instagram.com/krt.zzz_/#gh-dark-mode-only)
+ <a href="https://www.facebook.com/profile.php?id=100008866333712&mibextid=ZbWKwL/">
+   <picture>
+     <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-light.svg">-->
+     <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-dark.svg">-->
+     <img alt="Facebook logo" src="https://github.com/kurtpetrola/kurtpetrola/blob/master/imgs/facebook-dark.svg" height="35">
+   </picture>
+ </a>
+ &nbsp;
+ <a href="https://www.dev.to/katowu">
+   <picture>
+     <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/dev-light.svg">-->
+     <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/dev-dark.svg">-->
+     <img alt="Dev logo" src="https://github.com/kurtpetrola/kurtpetrola/blob/master/imgs/dev-dark.svg" height="35">
+   </picture>
+ </a>
+ &nbsp;
+ <a href="https://gitlab.com/kurtpetrola">
+   <picture>
+     <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/gitlab-light.svg">-->
+     <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/gitlab-dark.svg">-->
+     <img alt="Dev logo" src="https://github.com/kurtpetrola/kurtpetrola/blob/master/imgs/gitlab-dark.svg" height="35">
+   </picture>
+ </a>
+ &nbsp;
+ <a href="https://www.linkedin.com/in/kurtguenpetrola">
+   <picture>
+     <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/linkedin-light.svg">-->
+     <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/linkedin-dark.svg">-->
+     <img alt="Linkedin logo" src="https://github.com/kurtpetrola/kurtpetrola/blob/master/imgs/linkedin-dark.svg" height="35">
+   </picture>
+ </a>
+ &nbsp;
+ <a href="https://www.instagram.com/krt.zzz_">
+   <picture>
+     <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/instagram-light.svg">-->
+     <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/instagram-dark.svg">-->
+     <img alt="Instagram logo" src="https://github.com/kurtpetrola/kurtpetrola/blob/master/imgs/instagram-dark.svg" height="35">
+   </picture>
+ </a>
 
-------------------------------
-<a href="https://discord.com/users/866124582673842186"><img align="left" src="https://lanyard.cnrad.dev/api/866124582673842186?borderRadius=8px&hideDiscrim=true"/></a>
+---
 
+<p align="center">
+    <a href="https://discord.com/users/1038482905753714779"><img src="https://lanyard.cnrad.dev/api/1038482905753714779?borderRadius=8px&hideDiscrim=true"/></a>
+  &nbsp; &nbsp;
+    <img alt="cute-doggo-couple" width="auto" height="210" src="https://media.tenor.com/h67tbKxNTyAAAAAi/corgi-love.gif">
+</p>
 <!-- <img alt="doggo" width="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/74731f76965389.5c7945b0cfcc3.gif"> -->
