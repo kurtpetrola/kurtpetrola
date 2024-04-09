@@ -15,8 +15,8 @@ I am an aspiring Full-Stack Developer and is currently studying Bachelor of Scie
 
 <p align="center">
   <!--<a href="https://skillicons.dev"></a>-->
-    <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,firebase,git,svelte,react,ts" /> <!--</br>-->
-    <img src="https://skillicons.dev/icons?i=js,tailwind,mysql,vscode,androidstudio,cs,unity,figma" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,firebase,svelte,react,ts,js" /> <!--</br>-->
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,cs,unity,tailwind,mysql,git,figma" />
 </p>
 
 
