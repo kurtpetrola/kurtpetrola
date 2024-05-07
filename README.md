@@ -98,13 +98,11 @@ I am an aspiring Full-Stack Developer and is currently studying Bachelor of Scie
 
 ---
 
-<p align="left">
-    <a href="https://discord.com/users/866124582673842186"><img src="https://lanyard.cnrad.dev/api/866124582673842186??borderRadius=8px&hideDiscrim=true"/></a>
+<!-- <p align="left"> -->
+<a href="https://discord.com/users/866124582673842186"><img align="left" src="https://lanyard.cnrad.dev/api/866124582673842186??borderRadius=15px&hideDiscrim=true"/></a>
+<a href="https://app.daily.dev/kurtpetrola"><img align="right" src="https://api.daily.dev/devcards/v2/TcGz7c2xpYSbFEeVJ4djv.png?type=wide&r=z8n" width="419" alt="Kurt Petrola's Dev Card"/></a>
   <!--&nbsp; &nbsp;
     <img alt="cute-doggo-couple" width="auto" height="210" src="https://media.tenor.com/h67tbKxNTyAAAAAi/corgi-love.gif">-->
-</p>
+<!-- </p>  -->
 
-<p align="right">
-<a href="https://app.daily.dev/kurtpetrola"><img src="https://api.daily.dev/devcards/v2/TcGz7c2xpYSbFEeVJ4djv.png?r=5yg" width="356" alt="Kurt Petrola's Dev Card"/></a>
-</p>
 <!-- <img alt="doggo" width="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/74731f76965389.5c7945b0cfcc3.gif"> -->
