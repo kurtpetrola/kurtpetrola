@@ -104,6 +104,7 @@ I am an aspiring Full-Stack Developer and is currently studying Bachelor of Scie
     <a href="https://app.daily.dev/kurtpetrola"><img align="right" src="https://api.daily.dev/devcards/v2/TcGz7c2xpYSbFEeVJ4djv.png?type=wide&r=z8n" width="419" alt="Kurt Petrola's Dev Card"/></a>
 </div>
 
+
   <!--&nbsp; &nbsp;
     <img alt="cute-doggo-couple" width="auto" height="210" src="https://media.tenor.com/h67tbKxNTyAAAAAi/corgi-love.gif">-->
 <!-- </p>  -->
