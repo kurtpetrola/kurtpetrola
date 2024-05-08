@@ -100,7 +100,7 @@ I am an aspiring Full-Stack Developer and is currently studying Bachelor of Scie
 
 <!-- <p align="left"> -->
 <a href="https://discord.com/users/866124582673842186"><img align="left" src="https://lanyard.cnrad.dev/api/866124582673842186??borderRadius=8px&hideDiscrim=true"/></a>
-<a href="https://app.daily.dev/kurtpetrola"><img src="https://api.daily.dev/devcards/v2/TcGz7c2xpYSbFEeVJ4djv.png?type=wide&r=z8n" width="410" alt="Kurt Petrola's Dev Card"/></a>
+<a href="https://app.daily.dev/kurtpetrola"><img src="https://api.daily.dev/devcards/v2/TcGz7c2xpYSbFEeVJ4djv.png?type=wide&r=z8n" width="419" alt="Kurt Petrola's Dev Card"/></a>
   <!--&nbsp; &nbsp;
     <img alt="cute-doggo-couple" width="auto" height="210" src="https://media.tenor.com/h67tbKxNTyAAAAAi/corgi-love.gif">-->
 <!-- </p>  -->
