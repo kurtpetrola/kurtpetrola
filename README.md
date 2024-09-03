@@ -10,7 +10,7 @@ I’m currently pursuing a Bachelor of Science in Information Technology, with a
 
 - 📫 Reach me at [kurtguenpetrola@outlook.com](mailto:kurtguenpetrola@outlook.com)
 - 🌱 Currently exploring the Godot Engine
-- 🎯 Hobbies: Continuous learning, reading manga, and watching anime
+- 🎯 Hobbies: Playing games, reading manga, and watching anime
 
 ---
 
@@ -18,7 +18,7 @@ I’m currently pursuing a Bachelor of Science in Information Technology, with a
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,firebase,svelte,react,ts,js" alt="Tech Stack 1" />
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,cs,unity,git,tailwind,mysql,figma" alt="Tech Stack 2" />
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,cs,unity,git,godot,gcp,figma" alt="Tech Stack 2" />
 </p>
 
 ---
