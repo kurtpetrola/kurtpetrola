@@ -9,7 +9,8 @@
 I’m currently pursuing a Bachelor of Science in Information Technology, with a passion for Android and Game Development. I'm constantly learning and expanding my skill set to keep up with the fast-paced world of technology.
 
 - 📫 Reach me at [kurtguenpetrola@outlook.com](mailto:kurtguenpetrola@outlook.com)
-- 🌱 Currently exploring the Godot Engine
+- 🌱 I'm currently learning [Bloc](https://bloclibrary.dev/)
+- 👨‍💻 Deep diving into Flutter & Sveltejs
 - 🎯 Hobbies: Playing games, reading manga, and watching anime
 
 ---
@@ -17,7 +18,7 @@ I’m currently pursuing a Bachelor of Science in Information Technology, with a
 <h2>🧰 Languages, Frameworks, and Tools</h2>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,firebase,svelte,react,ts,js" alt="Tech Stack 1" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,firebase,svelte,react,ts,nodejs" alt="Tech Stack 1" />
     <img src="https://skillicons.dev/icons?i=vscode,androidstudio,cs,unity,git,godot,gcp,figma" alt="Tech Stack 2" />
 </p>
 
