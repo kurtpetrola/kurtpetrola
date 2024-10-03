@@ -27,7 +27,7 @@ I’m currently pursuing a Bachelor of Science in Information Technology, with a
 <h2>🌐 Connect with me</h2>
 
 <p align="center">
- <a href="https://www.facebook.com/profile.php?id=100008866333712&mibextid=ZbWKwL/">
+ <a href="https://www.facebook.com/kurtpetrola/">
    <img src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook.svg" height="36" alt="Facebook" />
  </a>
  &nbsp;
