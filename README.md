@@ -18,8 +18,8 @@ I’m currently pursuing a Bachelor of Science in Information Technology, with a
 <h2>🧰 Languages, Frameworks, and Tools</h2>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,firebase,svelte,react,ts,nodejs" alt="Tech Stack 1" />
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,cs,unity,git,godot,gcp,figma" alt="Tech Stack 2" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,androidstudio,vscode,gcp,unity" alt="Tech Stack 1" />
+    <img src="https://skillicons.dev/icons?i=svelte,ts,nodejs,react,tailwind,godot,git,figma" alt="Tech Stack 2" />
 </p>
 
 ---
