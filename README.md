@@ -78,7 +78,6 @@
   <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/-Firebase-DD2C00.svg?logo=firebase&style=flat"></a>
   <a href="https://developer.android.com/"><img src="https://img.shields.io/badge/-Android-34A853.svg?logo=android&logoColor=white&style=flat"></a>
   <a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/-Android%20Studio-3DDC84.svg?logo=androidstudio&logoColor=white&style=flat"></a>
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-VSCode-007ACC.svg?logo=visual-studio-code&style=flat"></a>
   <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-000.svg?logo=unity&logoColor=white&style=flat"></a>
   <a href="https://godotengine.org/"><img src="https://img.shields.io/badge/-Godot-478CBF.svg?logo=godotengine&logoColor=white&style=flat"></a>
   <a href="https://svelte.dev/"><img src="https://img.shields.io/badge/-Svelte-FF3E00.svg?logo=svelte&logoColor=white&style=flat"></a>
@@ -88,6 +87,7 @@
   <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/-Node.js-339933.svg?logo=nodedotjs&logoColor=white&style=flat"></a>
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/-Tailwind-06B6D4.svg?logo=tailwindcss&logoColor=white&style=flat"></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&logoColor=white&style=flat"></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-VSCode-007ACC.svg?logo=visual-studio-code&style=flat"></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&logoColor=white&style=flat"></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/-Bash-4EAA25.svg?logo=gnubash&logoColor=white&style=flat"></a>
   <a href="https://daringfireball.net/projects/markdown/"><img src="https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&logoColor=white&style=flat"></a>
@@ -98,6 +98,7 @@
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF.svg?logo=adobephotoshop&logoColor=white&style=flat"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&logoColor=white&style=flat"></a>
 </td>
+
  </tr>
 </table>
 
