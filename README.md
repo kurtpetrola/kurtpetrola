@@ -132,7 +132,7 @@
    <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn" />
  </a>
  &nbsp;
- <a href="https://www.instagram.com/krt.zzz_">
+ <a href="https://www.instagram.com/krt.zzz05_">
    <img src="https://skillicons.dev/icons?i=instagram" height="36" alt="Instagram" />
  </a>
 </p>
