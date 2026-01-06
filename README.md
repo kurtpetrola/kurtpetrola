@@ -59,8 +59,8 @@
       <li> I build games with Unity</li>
       <li> 🌱 I'm currently learning:   
         <ul> 
-          <li> System design </li>   
-          <li> Bloc (https://bloclibrary.dev/) </li> 
+          <li> Design Patterns </li>   
+          <li> AI & Machine Learning </li> 
         </ul>          
       </li>  
       <li> 🎯 Hobbies:
