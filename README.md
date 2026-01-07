@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kurtpetrola/kurtpetrola/blob/master/imgs/kurt-readme-header.png" alt="Kurt Guen Raposas Petrola Header" />
+  <img src="https://github.com/kurtpetrola/kurtpetrola/blob/master/imgs/Github Header Kurting.png" alt="Kurt Guen Raposas Petrola Header" />
 </p>
 
 <!-- **`Information Technology Student | Aspiring Android and Game Developer`** -->
