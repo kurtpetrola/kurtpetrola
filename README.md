@@ -53,8 +53,7 @@
  <tr>
   <td width="70%">
     <ul>
-      <li> Hi 👋, I'm Kurt Guen Petrola </li>
-      <li> A Software Developer 
+      <li> A Software Developer </li> 
       <li> I build mobile apps with Flutter</li>
       <li> I build games with Unity</li>
       <li> 🌱 I'm currently learning:   
